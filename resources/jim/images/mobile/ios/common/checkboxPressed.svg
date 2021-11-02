@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="38px" viewBox="0 0 38 38" preserveAspectRatio="none" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ios_checkboxes_on_icon</title>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#8A8A8A" offset="0%"></stop>
+            <stop stop-color="#383838" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Producte" transform="translate(-204.000000, -523.000000)">
+            <g id="JUSTINMIN-JIM-V9" transform="translate(69.000000, 94.000000)">
+                <g id="GENERIC-Elements-UI" transform="translate(3.000000, 288.000000)">
+                    <g id="Radiobuttons+checkboxes-IOS" transform="translate(0.000000, 141.000000)">
+                        <rect id="Rectangle-Copy-2" stroke="#2B2B2B" stroke-width="2.8" fill="url(#linearGradient-1)" x="133.4" y="1.4" width="35.2" height="35.2" rx="10"></rect>
+                        <path d="M159.454846,7.73130435 L164.981776,11.2270465 L147.583649,31.5154435 L137.151573,21.7646182 L141.4427,17.5909965 L147.512296,22.602783 L159.454846,7.73130435 Z" id="checkbox_arrow" stroke="#2B2B2B" stroke-width="2.1" fill="#E9E9E9"></path>
+                        <g id="SLICES"></g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

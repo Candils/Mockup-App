@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="38px" viewBox="0 0 38 38" preserveAspectRatio="none" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ios_radiobutton_off_icon</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#D6D6D6" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Producte" transform="translate(-72.000000, -523.000000)">
+            <g id="JUSTINMIN-JIM-V9" transform="translate(69.000000, 94.000000)">
+                <g id="GENERIC-Elements-UI" transform="translate(3.000000, 288.000000)">
+                    <g id="Radiobuttons+checkboxes-IOS" transform="translate(0.000000, 141.000000)">
+                        <circle id="Oval-6" stroke="#575757" stroke-width="2.8" fill="url(#linearGradient-1)" cx="19" cy="19" r="17.6"></circle>
+                        <g id="SLICES"></g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
