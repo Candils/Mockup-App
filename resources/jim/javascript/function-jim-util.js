@@ -3201,7 +3201,7 @@
 			if (gradientText.indexOf("linear-gradient") >= 0) {
 				var startEndRegexp = /[0-9\.]+% [0-9\.]+% to [0-9\.]+% [0-9\.]+%/mg;
 				
-				if (!gradientText.match(startEndRegexp).length)
+				if (gradientText.match(startEndRegexp) == null || !gradientText.match(startEndRegexp).length)
 					return gradientText;
 				
 				var pointMatches = gradientText.match(startEndRegexp)[0].match(/([0-9\.]+)%/mg);

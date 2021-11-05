@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="6px" viewBox="0 0 24 6" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="iPhone-X" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-164.000000, -23.000000)">
+        <path d="M167,29 C165.343146,29 164,27.6568542 164,26 C164,24.3431458 165.343146,23 167,23 C168.656854,23 170,24.3431458 170,26 C170,27.6568542 168.656854,29 167,29 Z M176,29 C174.343146,29 173,27.6568542 173,26 C173,24.3431458 174.343146,23 176,23 C177.656854,23 179,24.3431458 179,26 C179,27.6568542 177.656854,29 176,29 Z M185,29 C183.343146,29 182,27.6568542 182,26 C182,24.3431458 183.343146,23 185,23 C186.656854,23 188,24.3431458 188,26 C188,27.6568542 186.656854,29 185,29 Z" id="Icon" fill="#9B9B9B"></path>
+    </g>
+</svg>

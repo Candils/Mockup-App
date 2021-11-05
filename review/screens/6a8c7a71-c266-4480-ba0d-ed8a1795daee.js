@@ -2,8 +2,8 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devWeb canvas firer commentable non-processed" alignment="left" name="Template 1" width="1024" height="768">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1635803983718.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1635803983718-ie.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1636117010850.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1636117010850-ie.css" /><![endif]-->\
       <!--[if lte IE 8]><![endif]-->\
       <div class="freeLayout">\
       </div>\
@@ -15,9 +15,9 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
     <div id="s-6a8c7a71-c266-4480-ba0d-ed8a1795daee" class="screen growth-both devMobile devIOS canvas PORTRAIT firer commentable non-processed" alignment="left" name="Ficha Screen" width="375" height="812">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/6a8c7a71-c266-4480-ba0d-ed8a1795daee-1635803983718.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/6a8c7a71-c266-4480-ba0d-ed8a1795daee-1635803983718-ie.css" /><![endif]-->\
-      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/6a8c7a71-c266-4480-ba0d-ed8a1795daee-1635803983718-ie8.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/6a8c7a71-c266-4480-ba0d-ed8a1795daee-1636117010850.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/6a8c7a71-c266-4480-ba0d-ed8a1795daee-1636117010850-ie.css" /><![endif]-->\
+      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/6a8c7a71-c266-4480-ba0d-ed8a1795daee-1636117010850-ie8.css" /><![endif]-->\
       <div class="freeLayout">\
       <div id="s-Group_39" class="group firer ie-background commentable non-processed" customid="Illustration-doctor" datasizewidth="0.0px" datasizeheight="0.0px" >\
         <div id="s-Group_40" class="group firer ie-background commentable non-processed" customid="Group 2" datasizewidth="0.0px" datasizeheight="0.0px" >\
@@ -2423,33 +2423,6 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
         </div>\
       </div>\
 \
-      <div id="shapewrapper-s-Ellipse_2" customid="Ellipse 1" class="shapewrapper shapewrapper-s-Ellipse_2 non-processed"   datasizewidth="38.0px" datasizeheight="38.0px" datasizewidthpx="38.0" datasizeheightpx="38.0" dataX="324.0" dataY="46.1" >\
-          <div class="backgroundLayer">\
-            <div class="colorLayer"></div>\
-            <div class="imageLayer"></div>\
-          </div>\
-          <svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" id="svg-s-Ellipse_2" class="svgContainer" style="width:100%; height:100%;">\
-              <g>\
-                  <g clip-path="url(#clip-s-Ellipse_2)">\
-                          <ellipse id="s-Ellipse_2" class="pie ellipse shape non-processed-shape manualfit firer commentable non-processed" customid="Ellipse 1" cx="19.0" cy="19.0" rx="19.0" ry="19.0">\
-                          </ellipse>\
-                  </g>\
-              </g>\
-              <defs>\
-                  <clipPath id="clip-s-Ellipse_2" class="clipPath">\
-                          <ellipse cx="19.0" cy="19.0" rx="19.0" ry="19.0">\
-                          </ellipse>\
-                  </clipPath>\
-              </defs>\
-          </svg>\
-          <div class="paddingLayer">\
-              <div id="shapert-s-Ellipse_2" class="content firer" >\
-                  <div class="valign">\
-                      <span id="rtr-s-Ellipse_2_0"></span>\
-                  </div>\
-              </div>\
-          </div>\
-      </div>\
 \
       <div id="s-Group_2" class="group firer ie-background commentable non-processed" customid="Group 2" datasizewidth="0.0px" datasizeheight="0.0px" >\
         <div id="shapewrapper-s-Ellipse_1" customid="Ellipse 1" class="shapewrapper shapewrapper-s-Ellipse_1 non-processed"   datasizewidth="38.0px" datasizeheight="38.0px" datasizewidthpx="38.0" datasizeheightpx="38.0" dataX="19.0" dataY="46.1" >\
@@ -2499,27 +2472,9 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
         </div>\
       </div>\
 \
-      <div id="s-Union_1" class="pie path firer commentable non-processed" customid="ic_dots"   datasizewidth="4.0px" datasizeheight="15.0px" dataX="340.5" dataY="58.5"  >\
-        <div class="borderLayer">\
-        	<div class="imageViewport">\
-          	<?xml version="1.0" encoding="UTF-8"?>\
-          	<svg xmlns="http://www.w3.org/2000/svg" width="4.0" height="15.0" viewBox="340.5 58.5 4.0 15.0" preserveAspectRatio="none">\
-          	  <g>\
-          	    <defs>\
-          	      <path id="s-Union_1-6a8c7" d="M342.0 58.5 C341.17156982421875 58.5 340.5 59.171573638916016 340.5 60.0 C340.5 60.828426361083984 341.17156982421875 61.5 342.0 61.5 L343.0 61.5 C343.82843017578125 61.5 344.5 60.828426361083984 344.5 60.0 C344.5 59.171573638916016 343.82843017578125 58.5 343.0 58.5 Z M342.0 64.5 C341.17156982421875 64.5 340.5 65.17157363891602 340.5 66.0 C340.5 66.82842636108398 341.17156982421875 67.5 342.0 67.5 L343.0 67.5 C343.82843017578125 67.5 344.5 66.82842636108398 344.5 66.0 C344.5 65.17157363891602 343.82843017578125 64.5 343.0 64.5 Z M342.0 70.5 C341.17156982421875 70.5 340.5 71.17156982421875 340.5 72.0 C340.5 72.82843017578125 341.17156982421875 73.5 342.0 73.5 L343.0 73.5 C343.82843017578125 73.5 344.5 72.82843017578125 344.5 72.0 C344.5 71.17156982421875 343.82843017578125 70.5 343.0 70.5 Z "></path>\
-          	    </defs>\
-          	    <g>\
-          	      <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#s-Union_1-6a8c7" fill="#2C2F3A" fill-opacity="1.0" filter="none"></use>\
-          	    </g>\
-          	  </g>\
-          	</svg>\
-\
-          </div>\
-        </div>\
-      </div>\
 \
       <div id="s-Group_1" class="group firer ie-background commentable non-processed" customid="Form" datasizewidth="0.0px" datasizeheight="0.0px" >\
-        <div id="s-Button_2" class="pie button multiline manualfit firer commentable non-processed" customid="Button"   datasizewidth="315.0px" datasizeheight="50.0px" dataX="35.0" dataY="703.0" >\
+        <div id="s-Button_2" class="pie button multiline manualfit firer click commentable non-processed" customid="Button"   datasizewidth="315.0px" datasizeheight="50.0px" dataX="35.0" dataY="703.0" >\
           <div class="backgroundLayer">\
             <div class="colorLayer"></div>\
             <div class="imageLayer"></div>\
