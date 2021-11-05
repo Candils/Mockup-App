@@ -2,8 +2,8 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devWeb canvas firer commentable non-processed" alignment="left" name="Template 1" width="1024" height="768">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1636117010850.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1636117010850-ie.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1636119955700.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1636119955700-ie.css" /><![endif]-->\
       <!--[if lte IE 8]><![endif]-->\
       <div class="freeLayout">\
       </div>\
@@ -15,9 +15,9 @@ var content='<div class="ui-page" deviceName="iphonex" deviceType="mobile" devic
     <div id="s-6c99670e-6a95-4c3c-a7a4-152fd78dec94" class="screen growth-both devMobile devIOS canvas PORTRAIT firer commentable non-processed" alignment="left" name="Novedades Screen" width="375" height="812">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/6c99670e-6a95-4c3c-a7a4-152fd78dec94-1636117010850.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/6c99670e-6a95-4c3c-a7a4-152fd78dec94-1636117010850-ie.css" /><![endif]-->\
-      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/6c99670e-6a95-4c3c-a7a4-152fd78dec94-1636117010850-ie8.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/6c99670e-6a95-4c3c-a7a4-152fd78dec94-1636119955700.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/6c99670e-6a95-4c3c-a7a4-152fd78dec94-1636119955700-ie.css" /><![endif]-->\
+      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/6c99670e-6a95-4c3c-a7a4-152fd78dec94-1636119955700-ie8.css" /><![endif]-->\
       <div class="freeLayout">\
       <div id="s-Group_6" class="group firer ie-background commentable non-processed" customid="Card 2" datasizewidth="0.0px" datasizeheight="0.0px" >\
         <div id="s-Rectangle_7" class="pie rectangle manualfit firer click commentable non-processed" customid="BG"   datasizewidth="319.6px" datasizeheight="134.0px" datasizewidthpx="319.62562477216136" datasizeheightpx="133.99007203823248" dataX="28.0" dataY="633.0" >\
